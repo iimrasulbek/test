@@ -1,0 +1,197 @@
+* {
+    margin: 0;
+    padding: 0;box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    height: 8vh;
+}
+
+header {
+    background-color: #0E0E18;
+}
+
+.ismoil {
+    display: flex;
+    align-items: center;
+    color: #fff;
+    height: 8vh;
+    justify-content: space-between;
+}
+
+.tt {
+    background-image: url(img/bg6\ 1.png);
+    height: 70vh;
+    background-size: cover;
+    padding: 100px 0;
+}
+
+.grafik {
+    color: #fff;
+    align-items: center;
+    display: flex;
+}
+
+.day {
+    color: #fff;
+}
+
+.q {
+    background-color: rgb(183, 182, 180);
+    padding: 7px 15px;
+    border: none;
+    border-radius: 1px;
+    font-size: 18px;
+}
+
+.grafik > h1 {
+    font-weight: 10;
+    color: #5B6375;
+}
+
+.grafik > h2 {
+    font-size: 80px;
+}
+
+.grafik > p1 {
+    font-weight: 100;
+    font-size: 40px;
+}
+
+.grafik > p {
+    font-weight: 100;
+    font-size: 24px;
+}
+
+.grafik > p2 {
+    font-weight: 700;
+    font-size: 24px;
+}
+
+.icon {
+    display: flex;
+    gap: 10px;
+}
+
+.icon > p {
+    color: #b7b7b7;
+}
+
+.text > p {
+    color: #414157;
+}
+
+.text {
+    display: flex;
+    align-items: center;
+}
+
+.text > div > p {
+    color: #5B6375;
+}
+
+.gra {
+    color: #fff;
+}
+
+.gra > h2 {
+    font-size: 80px;
+}
+
+.grafik > h1 {
+    margin: 0px 40px 0px 200px;
+}
+
+.gra > p1 {
+    font-size: 50px;
+}
+
+.w {
+    border: none;
+    background-color: #EF3833;
+    color: #fff;
+    padding: 5px 20px;
+    border-radius: 30px;
+}
+
+.night {
+    color: #fff;
+    align-items: center;
+    gap: 10px;
+    font-weight: 100;
+    display: flex;
+}
+
+.day {
+    padding: 100px 0px;
+}
+
+.day > h1 {
+    color: #63CDF6;
+}
+
+.month {
+    background-color: #0d0d1d;
+    width: 100%;
+    height: 60vh;
+    display: flex;
+    justify-content: start;
+}
+
+.logo {
+    width: 100%;
+    height: 50vh;
+    background-color: #0E0E18;
+}
+
+.money {
+    color: #63CDF6;
+    text-align: end;
+    position: absolute;
+    left: 970px;
+    bottom: -80px;
+}
+
+.money > button {
+    background-color: #63CDF6;
+    border-radius: 50px;
+    border: none;
+    color: #fff;
+    padding: 8px 20px;
+}
+
+.b > h1 {
+    font-size: 40px;
+    font-weight: 100;
+}
+ 
+.b > h2 {
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.logo {
+    width: 100%;
+    height: 70vh;
+}
+
+.logo > div {
+    padding: 50px 0px;
+    color: #fff;
+}
+
+.bb1 {
+    padding: 50px 30px;
+    display: flex;
+    gap: 20px;
+    color: #0d0d1d;
+    background-color: #c0c0c0;
+}
+
+.boo {
+    margin: 100px;
+    padding: 12px;
+}

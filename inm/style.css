@@ -1,0 +1,176 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+header {
+    background-color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 25px;
+    height: 10vh;
+}
+
+nav {
+    display: flex;
+    gap: 80px;
+    align-items: center;
+    font-weight: 600;
+}
+
+main {
+    background-image: url(img/01.png);
+    width: 100%;
+    background-size: cover;
+    height: 90vh;
+
+}
+
+.wrapper {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 90vh;
+}
+
+a {
+    text-decoration: none;
+}
+
+.box1 {
+    color: #fff;
+    font-size: 30px;
+}
+
+.qwe {
+    color: rgb(222, 222, 222);
+}
+
+.box2 {
+    background-color: #fff;
+    width: 445px;
+    height: 268px;
+    border-radius: 20px;
+    text-align: center;
+    padding: 50px;
+    font-weight: 700;
+}
+
+.box2 > button {
+    background-color: orange;
+    width: 100%;
+    height: 56px;
+    margin: 20px 0px;
+    border-radius: 10px;
+    border: none;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.we {
+    color: rgb(147, 147, 147);
+}
+
+.logo {
+    font-weight: 700;
+    font-size: 35px;
+}
+
+nav > a {
+    color: gray;
+}
+
+h5 {
+    color: gray;
+}
+
+.re {
+    background-color: orange;
+    margin: 7px 0px;
+    border-radius: 10px;
+    border: none;
+    font-size: 15px;
+    padding: 15px;
+    font-weight: 700;
+}
+
+.img {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    padding: 50px 0px;
+}
+
+.rr {
+    font-weight: 600;
+    font-size: 25px;
+    display: flex;
+    padding: 30px 0px 0px;
+}
+
+.rt {
+    font-weight: 500;
+    display: flex;
+    padding: 20px 0px;
+}
+
+.xz > button {
+    background-color: orange;
+    margin: 7px 0px;
+    border-radius: 5px;
+    border: none;
+    font-size: 15px;
+    padding: 10px 20px;
+    font-weight: 700;
+}
+
+.dox {
+    width: 100%;
+    height: 50vh;
+    background-color: rgb(243, 243, 243);
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.zx {
+    font-size: 50px;
+    font-weight: 700;
+}
+
+.ty {
+    background-color: orange;
+    margin: 7px 0px;
+    border-radius: 5px;
+    border: none;
+    font-size: 15px;
+    padding: 15px 20px;
+    font-weight: 700;
+}
+
+input {
+    border-radius: 5px;
+    padding: 15px 20px;
+    margin: 7px 0px;
+    border-color: white;
+    border: none;
+}
+
+.yu {
+    display: flex;
+    gap: 10px;
+}
+
+span {
+    color: orange;
+}
